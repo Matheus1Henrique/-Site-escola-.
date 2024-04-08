@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+  font-family: cursive;
+  font-size: 22px;
+  width: auto;
+
+}
+.cbcl {
+    background-color: #424E61;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+
+.cmb{
+  width: 37%;
+  position: relative;
+  left: -40px;
+  top: 60px;
+
+}
+
+.A{
+    background-image: linear-gradient(#424E61,#16CFF8);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.a{
+    width: 35%;
+}
+
+
+.titulo{
+    padding: 24px 0;
+    font-size: 37px;
+    text-align: center;
+}
+
+.texto-um{
+  text-align: center;
+  font-size: 27px;
+  width: 100%;
+  position: relative;
+  top: 60px;
+  left: 50px;
+  color: black;
+
+}
+
+.mtr{
+    width: 35%;
+    left: 1000px;
+    bottom: 40px;
+    position: relative;
+}
+
+
+.pnl{
+    width: 35%;
+    left:  170px;
+    bottom: 190px;
+    position: relative;
+}
+
+.texto-dois{
+  left: 100px;
+  text-align: center;
+  font-size: 27px;
+  position: relative;
+  width: 40%;
+  padding: 50px;
+  padding-block: inherit;
+  top: 240px;
+}
+
+.texto-tres{
+  left: 800px;
+  text-align: center;
+  font-size: 27px;
+  position: relative;
+  width: 40%;
+  padding: 50px;
+  padding-block: inherit;
+  top: 180px;
+}
+
+.B{
+    background-image: linear-gradient(#16CFF8,#424E61);
+    padding: 24px 0;
+}
+
+.rodape{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-style: normal;
+
+}
+
+.hm{
+  right: -400px;
+  position: relative;
+  bottom: 35px;
+}
+
+.honda{
+  right: 1950px;
+  height: 132px;
+  width: 25%;
+  position: sticky;
+}
